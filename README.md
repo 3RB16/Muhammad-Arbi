@@ -1,55 +1,17 @@
-## Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px">, I'm [Ankit Warbhe!](https://ankitwarbhe.github.io) 
- 
- 
- ![Twitter Follow](https://img.shields.io/twitter/follow/ankitwarbhe?style=social)
+<h1 align="center">Hi 👋, I'm Muhammad Arbi</h1>
+<h3 align="center">A passionate Software engineer from Egypt</h3>
 
-<img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
+- 🌱 I’m currently learning **Full Stack Development using (ASP.NET && Angular)**
 
- <a href="https://dev.to/ankitwarbhe">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit's Dev" width="26"/>
-</a>
-<a href="https://twitter.com/ankitwarbhe">
-  <img align="left" alt="Ankit Warbhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ankit-warbhe/">
-  <img align="left" alt="Ankit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/ankit_warbhe/">
-  <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><br><br>
+- 📫 How to reach me **muhammad3rbi@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad arbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad arbi" height="30" width="40" /></a>
+<a href="https://fb.com/muhammad arbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad arbi" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/aka_fire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aka_fire" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/muhammad arbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammad arbi" height="30" width="40" /></a>
+</p>
 
-
-
-
-
-- :telescope: I'm currently studying BE in CSE 💻;
-- :hourglass_flowing_sand: Creator [@Duocodies](https://duocodies.ml);
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
-- 📫 How to reach me: ankitwarbheofficial@gmail.com;
-<br><br><br><br>
-
-![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)<a href="https://github.com/ankitwarbhe">
-  <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" />
-</a>
-
----
-
-## 📊 My Github stats
-
-<details>
-  <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitwarbhe&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
-  <br/>
- 
-</details>
-
-<details>
-   <summary>:chart_with_upwards_trend: Contribution Graph </summary>
-   <br/>
-   <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankitwarbhe&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</details>
-
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
